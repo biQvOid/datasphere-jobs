@@ -1,0 +1,11 @@
+polars==0.17.3
+xxhash==3.6.0
+pyarrow==21.0.0
+tqdm==4.67.1
+numpy==1.26.4
+pandas==1.5.3
+catboost==1.2.10
+pendulum==3.2.0
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.6
+python-dotenv

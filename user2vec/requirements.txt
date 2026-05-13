@@ -1,0 +1,7 @@
+polars==0.17.3
+xxhash==3.6.0
+faiss-cpu==1.13.2
+tqdm==4.67.1
+numpy==1.26.4
+pandas==1.5.3
+pendulum==3.2.0

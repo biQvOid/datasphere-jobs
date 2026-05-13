@@ -1,0 +1,9 @@
+polars==0.17.3
+xxhash==3.6.0
+tqdm==4.67.1
+numpy==1.26.4
+pandas==1.5.3
+scipy==1.15.3
+implicit==0.7.2
+pyarrow==21.0.0
+pendulum==3.2.0
